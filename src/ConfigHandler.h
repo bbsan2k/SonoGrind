@@ -6,7 +6,7 @@
 #define GRINDING_TIME 7000
 #define GRINDING_CONSTANT_THRESH 1000
 
-#define WIFI_HOSTNAME "SonoGrind-"
+#define WIFI_HOSTNAME "SonoGrind"
 
 #define CONFIG_LENGTH 512
 #define CONFIG_START 0
